@@ -1,0 +1,6 @@
+numpy
+matplotlib
+pandas
+mpld3
+ipywidgets
+voila
