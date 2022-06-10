@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser CloseEconSimulator.ipynb
+web: voila --port=$PORT --no-browser
