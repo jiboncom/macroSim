@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --Voila.ip='0.0.0.0'--preheat_kernel=True --pool_size=3 --MappingKernelManager.cull_interval=600 --MappingKernelManager.cull_idle_timeout=300  CloseEconSimulator.ipynb
+web: voila --port=$PORT --no-browser --Voila.ip='0.0.0.0' CloseEconSimulator.ipynb
