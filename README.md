@@ -4,4 +4,6 @@
 This is just a test of using Voilá
 
 Open up Simulator:
-https://mybinder.org/v2/gh/jiboncom/macroSim/HEAD?urlpath=voila%2Frender%2FCloseEconSimulator.ipynb
+* Binder: https://mybinder.org/v2/gh/jiboncom/macroSim/HEAD?urlpath=voila%2Frender%2FCloseEconSimulator.ipynb
+* Heroku: https://macro-sim.herokuapp.com/
+
