@@ -4,3 +4,4 @@ pandas
 mpld3
 ipywidgets
 voila
+git+https://github.com/jiboncom/pycel_add_randoms.git@macroSim
